@@ -1,6 +1,8 @@
 # Lucid Dream
 ## Background
-The aim of this project is to create an immersive 3D experience that attempts to replicate the experience of a dream This project is inspired by lucid dreaming, the incredible experiences of dreams.
+The aim of this project is to create an immersive 3D experience that attempts to replicate the experience of a dream This project is inspired by lucid dreaming, the incredible experiences of dreams. It will give teenagers a relaxed game experience, help them reduce stress and find their dreams.
+## Tools
+  Unreal Engien 4.27.2
 ## Compile and run 
   
 ## Sources
