@@ -28,7 +28,7 @@ Esc - Quit game
   [Stylized Castle](https://www.unrealengine.com/marketplace/zh-CN/product/stylized-castle-01) -- Unreal Engine, Alekasandrlvanov, 2020/01/07  
   [Stylized Forest](https://www.unrealengine.com/marketplace/zh-CN/product/stylized-forest-03) -- Unreal Engine, TomkaGS, 2020/08/11  
   [Stylized Farm Kit](https://www.unrealengine.com/marketplace/zh-CN/product/stylized-farm-kit) -- Unreal Engine, Patrick, 2019/04/17  
-  [Stylized Foreat Pack V2](https://www.unrealengine.com/marketplace/zh-CN/product/stylized-forest-pack-v2) -- Unreal Engine, Thomas Bartko, 2020/04/08  
+  [Stylized Forest Pack V2](https://www.unrealengine.com/marketplace/zh-CN/product/stylized-forest-pack-v2) -- Unreal Engine, Thomas Bartko, 2020/04/08  
   [Stylized Village](https://www.unrealengine.com/marketplace/zh-CN/product/stylized-village) -- Unreal Engine, Alekasandrlvanov, 2019/07/15  
   [Stylized Village 2](https://www.unrealengine.com/marketplace/zh-CN/product/stylized-village-01) -- Unreal Engine, Darchall, 2019/10/09   
   
