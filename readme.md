@@ -15,6 +15,7 @@ Q - Move up
 Z - Move down  
 U - Switch walk and fly mode  
 F - Interact with the item in the game  
+Space - Jump  
 Esc - Quit game
 ## Sources
   [Asteroids Planet](https://www.unrealengine.com/marketplace/zh-CN/product/asteroids-planet) -- Unreal Engine, Artem Bayankin, 2018/06/08  
