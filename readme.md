@@ -3,8 +3,18 @@
 The aim of this project is to create an immersive 3D experience that attempts to replicate the experience of a dream This project is inspired by lucid dreaming, the incredible experiences of dreams. It will give teenagers a relaxed game experience, help them reduce stress and find their dreams.
 ## Tools
   Unreal Engien 4.27.2
-## Compile and run 
-  
+## Getting Started 
+  Our games can be run on any Windows system, but may require UE4 to be installed on your computer in advance. If you don’t have UE4 on your computer, there will be a "UE4 Prerequisites Setup" pop-up box when you open the gameplay.exe (Path: Dream/WindowsNoEditor), you just need to agree to the license and click install. After the installation is complete, you can run the game.  
+## Usage
+We set up some keys to let the player interact with the game.  
+W - Move forward  
+S - Move back  
+A - Move left  
+D - Move right  
+Q - Move up   
+Z - Move down  
+U - Switch walk and fly mode  
+F - Interact with the item in the game  
 ## Sources
   [Asteroids Planet](https://www.unrealengine.com/marketplace/zh-CN/product/asteroids-planet) -- Unreal Engine, Artem Bayankin, 2018/06/08  
   [Cartoon Water Shader](https://www.unrealengine.com/marketplace/zh-CN/product/cartoon-water-shader) -- Unreal Engine, Sandvector Studios, 2017/07/19  
