@@ -4,7 +4,7 @@ The aim of this project is to create an immersive 3D experience that attempts to
 ## Tools
   Unreal Engien 4.27.2
 ## Getting Started 
-  Our games can be run on any Windows system, but may require UE4 to be installed on your computer in advance. If you don’t have UE4 on your computer, there will be a "UE4 Prerequisites Setup" pop-up box when you open the gameplay.exe (Path: Dream/WindowsNoEditor), you just need to agree to the license and click install. After the installation is complete, you can run the game.  
+  Our games can be run on any 64-bit Windows system, but may require UE4 to be installed on your computer in advance. If you don’t have UE4 on your computer, there will be a "UE4 Prerequisites Setup" pop-up box when you open the gameplay.exe (Path: Dream/WindowsNoEditor), you just need to agree to the license and click install. After the installation is complete, you can run the game.  
 ## Usage
 We set up some keys to let the player interact with the game.  
 W - Move forward  
