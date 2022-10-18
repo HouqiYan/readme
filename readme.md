@@ -15,6 +15,7 @@ Q - Move up
 Z - Move down  
 U - Switch walk and fly mode  
 F - Interact with the item in the game  
+Esc - quit game
 ## Sources
   [Asteroids Planet](https://www.unrealengine.com/marketplace/zh-CN/product/asteroids-planet) -- Unreal Engine, Artem Bayankin, 2018/06/08  
   [Cartoon Water Shader](https://www.unrealengine.com/marketplace/zh-CN/product/cartoon-water-shader) -- Unreal Engine, Sandvector Studios, 2017/07/19  
